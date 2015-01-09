@@ -1,2 +1,2 @@
-# Document
-every document for nodemcu goes here
+# NodeMCU Wiki
+[中文](./tree/master/zh)[English](./tree/master/en)
